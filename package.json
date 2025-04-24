@@ -1,0 +1,17 @@
+{
+  "name": "2025-04-24",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lighthouse": "lhci autorun",
+    "cypress": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@lhci/cli": "^0.14.0",
+    "@testing-library/cypress": "^10.0.3",
+    "cypress": "^14.3.2"
+  }
+}
